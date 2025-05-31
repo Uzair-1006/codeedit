@@ -6,7 +6,7 @@ from app.utils import update_component_code
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",  # your frontend origin
+    "http://localhost:3001",  # your frontend origin
     # You can add more origins if needed
 ]
 
